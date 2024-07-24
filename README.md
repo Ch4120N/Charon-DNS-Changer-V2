@@ -15,7 +15,7 @@
 <img src="screenshot.png">
 
 ## ⚓ Requires
-> .NET Framework 4.6 | Telerik WinForms
+> .NET Framework 4.6 | Telerik WinForms | Having internet at least to get IP
 
 ## Supported Operating Systems
 - [X] Windows 10
